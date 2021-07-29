@@ -7,4 +7,4 @@
 目前無繼續本項目的打算。
 
 預覽圖象：
-!(preview.png)
+![](preview.png)
